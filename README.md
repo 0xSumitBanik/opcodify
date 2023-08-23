@@ -30,7 +30,7 @@ You should see the opcode treemap getting created in the working directory.
 
 The image below is an example of a Smart Contract:
 
-![TreeMap](assets/treemap-1692811755.png)
+![TreeMap](https://raw.githubusercontent.com/0xSumitBanik/opcodify/main/assets/treemap-1692811755.png)
 
 ## Prerequisites
 
@@ -38,7 +38,7 @@ The image below is an example of a Smart Contract:
 
 ## License
 
-This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](https://github.com/0xSumitBanik/opcodify/blob/main/LICENSE.md) file for details.
 
 ## Contributing
 

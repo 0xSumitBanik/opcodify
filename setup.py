@@ -13,7 +13,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name = "opcodify",
-    version ="0.1.2",
+    version ="0.1.3",
     author = "Sumit Banik",
     author_email = "sumitbanik02@gmail.com",
     description = "opcodify is a command-line tool designed to simplify the process of visualizing Opcodes within Solidity Smart Contracts. With opcodify, you can effortlessly generate treemap visualizations that provide insights into the distribution of opcodes used within your contracts.",
