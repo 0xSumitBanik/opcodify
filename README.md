@@ -2,9 +2,7 @@
 
 [![PyPI Version](https://img.shields.io/pypi/v/opcodify.svg)](https://pypi.org/project/opcodify/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
-<!-- Will re-enable soon -->
-<!-- [![Downloads](https://static.pepy.tech/badge/opcodify)](https://pepy.tech/project/opcodify) -->
+ [![Downloads](https://static.pepy.tech/badge/opcodify)](https://pepy.tech/project/opcodify)
 
 opcodify is a command-line tool that helps visualize Opcodes for Solidity Smart Contracts. It generates a treemap visualization to provide insights into the distribution of Opcodes within a contract.
 
